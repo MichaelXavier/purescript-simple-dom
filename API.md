@@ -198,6 +198,7 @@
       MouseEnterEvent :: MouseEventType
       MouseOutEvent :: MouseEventType
       MouseLeaveEvent :: MouseEventType
+      MouseClickEvent :: MouseEventType
 
     data UIEventType where
       LoadEvent :: UIEventType
